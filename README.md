@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-🔭 I'm currently working on Full Stack Web Development Certification at BloomTech (FKA Lambda School)
+🔭 I'm currently a frontend engineer for the project Underdog Devs - doing developing and debugging.
 
-🌱 I’m currently learning frontend (Javascript, React, Redux) and backend
+🌱 Currently exploring frontend (Javascript, React, Redux) and backend (Node.js and Express)
 
 📚 When my eyes need a break from the screen, I like to stay active with sports, mostly basketball and flag football
 
