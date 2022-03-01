@@ -1,4 +1,5 @@
 ⬇ 𝐒𝐜𝐫𝐨𝐥𝐥 𝐃𝐨𝐰𝐧 ⬇ 𝐓𝐨 𝐕𝐢𝐞𝐰 𝐌𝐲 𝐑𝐞𝐜𝐞𝐧𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬 👀
+
 Hi, I’m Daniel, a Software Engineer with experience in JavaScript, React.js, Redux, Node.js, Express.js, Knex.js, and SQL. I am at my best when I can take on challenges with a hands-on approach, and I enjoy working in a collaborative and fast-paced team environment.
 
 I'm currently a Frontend Engineer for the Underdog Devs project - doing developing and debugging
